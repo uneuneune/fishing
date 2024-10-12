@@ -1,0 +1,42 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:salmon",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{maxsiz:90,minsiz:60}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": "キレイ",
+                  "color": "white",
+                  "bold": false,
+                  "italic": false
+                }
+              ],
+              "mode": "append"
+            },
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "target": "item_name",
+              "name": {
+                "text": "鯉",
+                "bold": false,
+                "italic": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
