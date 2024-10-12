@@ -1,0 +1,1 @@
+execute if biome ~ ~ ~ nether_wastes run loot spawn ~ ~ ~ fish fish:lake_fish ~ ~ ~
