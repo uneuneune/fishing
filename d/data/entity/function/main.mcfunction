@@ -1,0 +1,1 @@
+execute if entity @s[tag=FishingBobber] run function entity:fishing_bobber/

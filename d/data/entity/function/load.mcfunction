@@ -1,0 +1,1 @@
+scoreboard objectives add entity.fishing_bobber.owner dummy
