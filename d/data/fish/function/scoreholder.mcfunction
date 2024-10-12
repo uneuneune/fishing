@@ -8,3 +8,6 @@ scoreboard objectives add viewpoi_now dummy
 
 scoreboard objectives add uid dummy
 scoreboard objectives add copy_uid dummy
+
+scoreboard objectives add fish_minsiz dummy
+scoreboard objectives add fish_maxsiz dummy
