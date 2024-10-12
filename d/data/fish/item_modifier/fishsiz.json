@@ -1,0 +1,35 @@
+[
+    {
+      "function": "minecraft:set_lore",
+      "entity": "this",
+      "lore": [
+        "",
+        {
+          "text": "サイズ ",
+          "color": "white",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": ""
+        },
+        {
+          "score": {
+            "name": "#fish_siz",
+            "objective": "un_count"
+          },
+          "color": "white",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "cm",
+          "color": "white",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "mode": "append"
+    }
+  ]
+  
